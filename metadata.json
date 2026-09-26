@@ -1,0 +1,6 @@
+{
+  "name": "MEDISCAN - Accessible & Affordable Medical Scans",
+  "description": "Compare medical scan costs and waiting times across nearby hospitals, and translate complex medical reports into simple English and Tamil with color-coded results and voice explanation.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
